@@ -27,7 +27,7 @@ How to View the Prototype
 
 Prototype Link : https://www.figma.com/proto/xAoHL4zSCq4xvt8ocRjmHV/app?node-id=0-1&t=zrUmH9fGvH1qhSOR-1
 
-Google drive video link :  
+Google drive video link :  https://drive.google.com/file/d/1-XMDJKMw5Neo0TezBdtNe3cCgALWtSMc/view?usp=sharing
 
 Screenshots
 

@@ -17,7 +17,7 @@ Figma: The entire prototype is designed using Figma, a powerful tool for designi
 How to View the Prototype
 Clone the Repository: Use git clone to download the repository to your local machine.
 git clone:  https://github.com/Aditya-Dey012/Nike-App-in-Figma.git
-Open in Figma: Import the Figma file included in the repository into your Figma account to interact with the prototype.
+Prototype Link : https://www.figma.com/proto/xAoHL4zSCq4xvt8ocRjmHV/app?node-id=0-1&t=zrUmH9fGvH1qhSOR-1
 
 Screenshots
 
